@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There 👋, I'm Aayush Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
  <img align ="right" alt="Coding" width="400" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/developer-icon.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu74&label=Profile%20views&color=0e75b6&style=flat" alt="ishu74" /> </p>
