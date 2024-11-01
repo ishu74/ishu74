@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NEXTJS-15 , RUST**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ishu74?tab=repositories](https://github.com/ishu74?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ishu74](https://github.com/ishu74)
 
 - 👨‍💻 Portfolio [https://aayushportfolio-theta.vercel.app/](https://aayushportfolio-theta.vercel.app/)
 
