@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishu74](https://github.com/ishu74)
 
-- 👨‍💻 Portfolio [https://aayushportfolio-theta.vercel.app/](https://aayushportfolio-theta.vercel.app/)
+- 👨‍💻 Portfolio [https://aayushportfolio-theta.vercel.app/](https://portfolioaayushsingh.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development**
 
